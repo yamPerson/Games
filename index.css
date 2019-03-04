@@ -73,7 +73,7 @@ p {
     font-size: 16px; 
 } 
 
-.button {
+/* .button {
   background-color: #2C2D3C; 
   border: none;
   color: white;
@@ -87,9 +87,9 @@ p {
   margin-right: 5%;
   margin-left: 5%;
   height: 2%;
-}
+} */
 
-.button1 {
+/* .button1 {
   background-color: #2C2D3C; 
   border: none;
   color: white;
@@ -103,7 +103,7 @@ p {
   margin-right: 5%;
   margin-left: 5%;
   height: 2%;
-}
+} */
 
 .grid-container {
   margin-top: 10%;
