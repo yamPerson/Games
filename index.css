@@ -89,22 +89,6 @@ p {
   height: 2%;
 } */
 
-/* .button1 {
-  background-color: #2C2D3C; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 21px;
-  position: fixed;
-  top: 2%;
-  margin-right: 5%;
-  margin-left: 5%;
-  height: 2%;
-} */
-
 .grid-container {
   margin-top: 10%;
   display: grid;
