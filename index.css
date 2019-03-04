@@ -106,8 +106,20 @@ p {
 }
 
 .grid-container {
-  display: inline-grid;
+  display: grid;
   grid-column-gap: 10px;
   grid-row-gap: 10;
   background-color: white;
+}
+
+.grid-container {
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  background-color: black;
+  border: 1px solid white;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
 }
