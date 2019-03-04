@@ -106,6 +106,7 @@ p {
 }
 
 .grid-container {
+  margin-top: 10%;
   display: grid;
   grid-column-gap: 10px;
   grid-row-gap: 10;
@@ -113,10 +114,12 @@ p {
 }
 
 .grid-container {
+  margin-top: 10%;
   grid-template-columns: auto auto auto;
   padding: 10px;
 }
 .grid-item {
+  margin-top: 10%;
   background-color: black;
   border: 1px solid white;
   padding: 20px;
