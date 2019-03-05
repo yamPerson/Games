@@ -55,8 +55,12 @@ p {
   color: white;
   border: 1px solid #1B1B1B;
   float: right;
-  position: relative;
-  top: 0;
+  position: sticky;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  top: 0px;
   text-align: right;
   padding-right: 8%;
   opacity: .8;
