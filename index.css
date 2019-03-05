@@ -8,15 +8,6 @@ body {
   padding: 0;
 }
 
-/* header {
-  background-color: #37474F;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-decoration: none;
-}
- */
-
 footer {
   background-color: #F2F2F2;
   border: none;
@@ -57,8 +48,6 @@ p {
   color: #1B1B1B;
 }
 
-
-
  .button {
   width: 33.3333%;
   font-size: 120%;
@@ -70,24 +59,3 @@ p {
   top: 0;
   text-align: left;
 } 
-
-.grid-container {
-  margin-top: 10%;
-  display: grid;
-  grid-column-gap: 5px;
-  background-color: white;
-}
-
-.grid-container {
-  margin-top: 10%;
-  grid-template-columns: auto auto auto;
-  padding: 10px;
-}
-.grid-item {
-  margin-top: 10%;
-  background-color: #f2f2f2;
-  border: 15px solid white;
-  padding: 20%;
-  font-size: 5%;
-  text-align: center;
-}
