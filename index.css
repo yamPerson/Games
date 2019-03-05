@@ -49,8 +49,8 @@ p {
 }
 
  .button {
-  width: 33.3333333333333333333333333333333333333333333333333333%;
-  font-size: 120%;
+  width: 12.5%;
+  font-size: 100%;
   background-color: #1B1B1B;
   color: white;
   border: 1px solid #1B1B1B;
@@ -61,8 +61,8 @@ p {
   position: -ms-sticky;
   position: -o-sticky;
   top: 0px;
-  text-align: right;
-  padding-right: 8%;
+  text-align: auto;
+/*   padding-right: 8%; */
   opacity: .8;
 } 
 
