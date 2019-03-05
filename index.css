@@ -61,7 +61,7 @@ p {
   position: -ms-sticky;
   position: -o-sticky;
   top: 0px;
-  text-align: right;
+  text-align: left;
   opacity: .8;
 } 
 
