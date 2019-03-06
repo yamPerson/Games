@@ -81,7 +81,8 @@ p {
 .js {
   width: 100%;
   height: auto;
-  opacity: .8;
+  opacity: .5;
+  margin-top: 20px;
   
   
 }
