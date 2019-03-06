@@ -26,12 +26,13 @@ footer {
   margin-left: 2%;
 }
 
-h1 {
+h2 {
   color: #1B1B1B;
   text-align: center;
   font-size: 300%;
   position: absolute;
   top: 0;
+  letter-spacing: -1px;
   padding: 20px;
   padding-top: 60px;
 }
@@ -41,12 +42,6 @@ h3 {
   text-align: center;
 }
 
-h2 {
-  color: white;
-  text-align: center;
-  letter-spacing: 3px;
-  font-size: 150%;
-}
 
 p {
   color: #1B1B1B;
