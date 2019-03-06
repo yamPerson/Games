@@ -45,15 +45,15 @@ h2 {
 }
 
 p {
-  color: #1B1B1B;
+  color: #333;
 }
 
  .button {
   width: 25%;
   font-size: 100%;
-  background-color: #1B1B1B;
+  background-color: v;
   color: white;
-  border: 1px solid #1B1B1B;
+  border: 1px solid #333;
   float: right;
   position: sticky;
   position: -webkit-sticky;
@@ -67,10 +67,10 @@ p {
 } 
 
 
-.shapes {
-  background-color: grey;
-  color: #1B1B1B;
-  width: 45%;
+.start {
+  background-color: #FOFOFO;
+  border: 10px solid white;
+  color: #333;
+  width: 100%;
   height: auto;
-  
 }
