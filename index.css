@@ -68,7 +68,7 @@ p {
 
 .start {
 
-  padding-top: 20%;
+  position: relative;
   border-top: 70px solid white; 
   border-bottom: 50px solid white; 
   margin: auto;
